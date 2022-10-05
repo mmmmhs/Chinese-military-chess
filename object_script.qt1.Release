@@ -1,0 +1,11 @@
+release/chess_piece.o
+release/main.o
+release/mainwindow.o
+release/placeholder.o
+release/position.o
+release/server_con.o
+release/qrc_rsc.o
+release/moc_chess_piece.o
+release/moc_mainwindow.o
+release/moc_placeholder.o
+release/moc_server_con.o

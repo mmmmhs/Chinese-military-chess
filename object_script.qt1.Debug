@@ -1,0 +1,11 @@
+debug/chess_piece.o
+debug/main.o
+debug/mainwindow.o
+debug/placeholder.o
+debug/position.o
+debug/server_con.o
+debug/qrc_rsc.o
+debug/moc_chess_piece.o
+debug/moc_mainwindow.o
+debug/moc_placeholder.o
+debug/moc_server_con.o
